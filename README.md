@@ -1,4 +1,4 @@
-<p align="center">**About me**</p>
+<p align="center"><b>About me</b></p>
 
 
 <p align="center">- 📈 Built Discord Bots DDoS Methods</p>
@@ -8,7 +8,7 @@
 <p align="center">- 📈 Founder of AceBooter and Developer of Premium Files</p>
 
 
-<p align="center">**Languages:**  </p>
+<p align="center"><b>Languages</b>  </p>
 
 <p align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></p>
 <p align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code></p>
