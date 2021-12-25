@@ -1,7 +1,7 @@
 <p align="center"><b>About me</b></p>
 
 
-<p align="center">- 📈 Built Discord Bots DDoS Methods</p>
+<p align="center">- 📈 Built Discord Bots, DDoS Methods</p>
 
 <p align="center">- ❤️ I love writing JavaScript, and building fun experiments on type-level</p>
 
