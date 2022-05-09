@@ -2,11 +2,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cragus-1902&label=Profile%20views&color=0e75b6&style=flat" alt="cragus" /> </p>
 
 
-<p align="center">- 📈 Built Discord Bots, DDoS Methods</p>
+<p align="center">- 📈 Built Discord Bots</p>
 
 <p align="center">- ❤️ I love writing JavaScript, and building fun experiments on type-level</p>
 
-<p align="center">- 📈 Founder of AceBooter and Developer of Premium Files</p>
 
 
 <p align="center"><b>Languages</b>  </p>
